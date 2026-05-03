@@ -1,3 +1,5 @@
+# Square root feature added
+
 import math
 
 class Calculator:
@@ -27,3 +29,5 @@ if __name__ == "__main__":
     print("Multiply:", c.multiply(10, 5))
     print("Divide:", c.divide(10, 5))
     print("Square Root:", c.square_root(25))
+
+
